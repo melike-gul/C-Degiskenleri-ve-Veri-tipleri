@@ -1,0 +1,14 @@
+/Users/melikegul/Documents/GitHub/HomeWork_18_08_2024/HomeWork01/Work01/obj/Debug/net8.0/Work01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melikegul/Documents/GitHub/HomeWork_18_08_2024/HomeWork01/Work01/obj/Debug/net8.0/Work01.AssemblyInfoInputs.cache
+/Users/melikegul/Documents/GitHub/HomeWork_18_08_2024/HomeWork01/Work01/obj/Debug/net8.0/Work01.AssemblyInfo.cs
+/Users/melikegul/Documents/GitHub/HomeWork_18_08_2024/HomeWork01/Work01/obj/Debug/net8.0/Work01.csproj.CoreCompileInputs.cache
+/Users/melikegul/Documents/GitHub/HomeWork_18_08_2024/HomeWork01/Work01/bin/Debug/net8.0/Work01
+/Users/melikegul/Documents/GitHub/HomeWork_18_08_2024/HomeWork01/Work01/bin/Debug/net8.0/Work01.deps.json
+/Users/melikegul/Documents/GitHub/HomeWork_18_08_2024/HomeWork01/Work01/bin/Debug/net8.0/Work01.runtimeconfig.json
+/Users/melikegul/Documents/GitHub/HomeWork_18_08_2024/HomeWork01/Work01/bin/Debug/net8.0/Work01.dll
+/Users/melikegul/Documents/GitHub/HomeWork_18_08_2024/HomeWork01/Work01/bin/Debug/net8.0/Work01.pdb
+/Users/melikegul/Documents/GitHub/HomeWork_18_08_2024/HomeWork01/Work01/obj/Debug/net8.0/Work01.dll
+/Users/melikegul/Documents/GitHub/HomeWork_18_08_2024/HomeWork01/Work01/obj/Debug/net8.0/refint/Work01.dll
+/Users/melikegul/Documents/GitHub/HomeWork_18_08_2024/HomeWork01/Work01/obj/Debug/net8.0/Work01.pdb
+/Users/melikegul/Documents/GitHub/HomeWork_18_08_2024/HomeWork01/Work01/obj/Debug/net8.0/Work01.genruntimeconfig.cache
+/Users/melikegul/Documents/GitHub/HomeWork_18_08_2024/HomeWork01/Work01/obj/Debug/net8.0/ref/Work01.dll
